@@ -6,7 +6,7 @@
 # Resources & Tutorials:
 * [Downloading and installing Unity](https://docs.unity3d.com/560/Documentation/Manual/InstallingUnity.html)
 * [Download Blender](https://www.blender.org/download/)
-* [Download Unreal Engine](https://www.unrealengine.com/en-US/download)* 
+* [Download Unreal Engine](https://www.unrealengine.com/en-US/download) 
 * [Exterior Ligtmapping tutorial](https://www.youtube.com/watch?v=okYhs6kQ0xw)
 * [Modelling Cities in minutes](https://www.youtube.com/watch?v=9bh9nlVQQj8)
 * [Blender GIS tutorial - Importing heightmaps of terrain]((https://www.youtube.com/watch?v=YNtKnmRXVlo)
