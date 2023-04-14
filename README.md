@@ -11,5 +11,6 @@
 * [Modelling Cities in minutes](https://www.youtube.com/watch?v=9bh9nlVQQj8)
 * [Blender GIS tutorial - Importing heightmaps of terrain](https://www.youtube.com/watch?v=YNtKnmRXVlo)
 
-![image](https://user-images.githubusercontent.com/58925008/232092204-57ac1a70-d31f-40de-830d-8fe41d920440.png)
+![image](https://user-images.githubusercontent.com/58925008/232097606-c2adf7ae-bc83-44f0-aaed-c2a1973b2c3d.png)
+
  
