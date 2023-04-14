@@ -9,7 +9,7 @@
 * [Download Unreal Engine](https://www.unrealengine.com/en-US/download) 
 * [Exterior Ligtmapping tutorial](https://www.youtube.com/watch?v=okYhs6kQ0xw)
 * [Modelling Cities in minutes](https://www.youtube.com/watch?v=9bh9nlVQQj8)
-* [Blender GIS tutorial - Importing heightmaps of terrain]((https://www.youtube.com/watch?v=YNtKnmRXVlo)
+* [Blender GIS tutorial - Importing heightmaps of terrain](https://www.youtube.com/watch?v=YNtKnmRXVlo)
 
 ![image](https://user-images.githubusercontent.com/58925008/232092204-57ac1a70-d31f-40de-830d-8fe41d920440.png)
  
